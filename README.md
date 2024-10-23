@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ritikkumar1212
-- 👀 I’m interested in Data Science and other python projects such as web scraping, data analysing, etc.
-- 🌱 I’m currently learning Data science.
+- 👀 I’m interested in Data Science, Web development and other python projects such as web scraping, data analysing, etc.
+- 🌱 I’m currently learning Data science and Django.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
